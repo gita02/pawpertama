@@ -524,15 +524,15 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<div class="col-md-6 w3l_mail_right">
 			<h3>Contact Info</h3>
 			<ul>
-				<li><span><i class="fa fa-home" aria-hidden="true"></i>Address<label>:</label></span> 786k Avenue, New York City.</li>
-				<li><span><i class="fa fa-phone" aria-hidden="true"></i>Phone<label>:</label></span> (+012) 345 6432</li>
-				<li><span><i class="fa fa-fax" aria-hidden="true"></i>Fax<label>:</label></span> +82-21-1218</li>
-				<li><span><i class="fa fa-envelope" aria-hidden="true"></i>Email<label>:</label></span> <a href="mailto:info@example.com">info@example.com</a></li>
-				<li><span><i class="fa fa-globe" aria-hidden="true"></i>Website<label>:</label></span> <a href="https://w3layouts.com/">http://w3layouts.com</a></li>
+				<li><span><i class="fa fa-home" aria-hidden="true"></i>Address<label>:</label></span> Jl. A.H. Nasution No.105, Cipadung, Cibiru, Bandung, Jawa Barat 40614</li>
+				<li><span><i class="fa fa-phone" aria-hidden="true"></i>Phone<label>:</label></span>  (022) 7800525</li>
+				<!-- <li><span><i class="fa fa-fax" aria-hidden="true"></i>Fax<label>:</label></span> +82-21-1218</li> -->
+				<li><span><i class="fa fa-envelope" aria-hidden="true"></i>Email<label>:</label></span> <a href="official@uinsgd.ac.id>info@example.com</a></li>
+				<li><span><i class="fa fa-globe" aria-hidden="true"></i>Website<label>:</label></span> <a href="https://uinsgd.ac.id/">UIN bandung</a></li>
 			</ul>
 		</div>
 		<div class="col-md-6 w3l_mail_left">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387142.84008838347!2d-74.25818880297903!3d40.705831640339994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1465278069158" style="border:0"> </iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.65920809796!2d107.71548211412585!3d-6.9312740949920375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68dd42c254a55d%3A0xee52343f78dc2e32!2sUIN+Sunan+Gunung+Djati+Bandung!5e0!3m2!1sid!2sid!4v1544893993524" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
