@@ -7,11 +7,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Snap a PhotoGallery Category Bootstrap Responsive website Template | Home :: w3layouts</title>
+<title>TakePhoto a PhotoGallery Category Bootstrap Responsive website Template | Home :: w3layouts</title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Snap web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="STakePhoto web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--// Meta tag Keywords -->
@@ -40,8 +40,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="w3layouts-banner-top">
 							<div class="container">
 								<div class="agileits-banner-info">
-									<p>Lorem Ipsum Dolor</p>
-									<h3>GREAT WORKS</h3>
+									<p>kami menyediakan</p>
+									<h3>TEMPAT PHOTOGRAPHER</h3>
 									<div class="agileits_w3layouts_more menu__item">
 										<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Find More</a>
 									</div>
@@ -53,8 +53,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="w3layouts-banner-top">
 							<div class="container">
 								<div class="agileits-banner-info">
-									<p>Sit Amet Consectetur</p>
-									<h3>IMPRESSIVE WORKS</h3>
+									<p>Kami menyediakan</p>
+									<h3>PESAN JASA PHOTO</h3>
 									<div class="agileits_w3layouts_more menu__item">
 										<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Find More</a>
 									</div>
@@ -66,8 +66,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 						<div class="w3layouts-banner-top">
 							<div class="container">
 								<div class="agileits-banner-info">
-									<p>Adipiscing Elit Amet</p>
-									<h3>THE MOST CREATIVE</h3>
+									<p>Kami menyediakan</p>
+									<h3>FILTER PHOTO</h3>
 									<div class="agileits_w3layouts_more menu__item">
 										<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Find More</a>
 									</div>
@@ -88,12 +88,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="navbar-header page-scroll">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-					<span class="sr-only">Snap</span>
+					<span class="sr-only">TakePhoto</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<h1><a class="navbar-brand" href="index.html"><span>S</span>nap</a></h1>
+				<h1><a class="navbar-brand" href="index.html"><span>T</span>akePhoto</a></h1>
 			</div> 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -414,7 +414,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g1.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>TakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -425,7 +425,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g2.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -436,7 +436,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g3.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -449,7 +449,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g4.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -460,7 +460,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g6.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -471,7 +471,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g5.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -484,7 +484,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g7.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>SakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -495,7 +495,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g8.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>TakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -506,7 +506,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<div class="agile_gallery_grid1">
 								<img src="images/g9.jpg" alt=" " class="img-responsive" />
 								<div class="w3layouts_gallery_grid1_pos">
-									<h3>Snap</h3>
+									<h3>TakePhoto</h3>
 									<p>Donec vitae hendrerit faucibus.</p>
 								</div>
 							</div>
@@ -588,13 +588,13 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<a class="tumblr" href="#"><i class="fa fa-tumblr"></i></a>
 			</div>
 			<div class="logo-fo">
-				<h2><a href="index.html">Snap</a></h2>
+				<h2><a href="index.html">TakePhoto</a></h2>
 			</div>
 			<div class="clearfix"> </div>
 	</div>
 </div>
 <div class="copyrights">
-	<p>&copy; 2017 Snap. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+	<p>&copy; 2017 TakePhoto. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
 </div>
 <!-- //Footer -->
 
