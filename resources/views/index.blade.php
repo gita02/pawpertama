@@ -1,13 +1,6 @@
-<!--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
-<title>TakePhoto a PhotoGallery Category Bootstrap Responsive website Template | Home :: w3layouts</title>
+<title>TakePhoto</title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -83,34 +76,9 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	</div>	
 	<!-- //banner --> 
 	<!-- header -->
-	<div class="header-w3layouts"> 
-		<!-- Navigation -->
-		<nav class="navbar navbar-default navbar-fixed-top">
-			<div class="navbar-header page-scroll">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-					<span class="sr-only">TakePhoto</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<h1><a class="navbar-brand" href="index.html"><span>T</span>akePhoto</a></h1>
-			</div> 
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse navbar-ex1-collapse">
-				<ul class="nav navbar-nav navbar-right">
-					<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-					<li class="hidden"><a class="page-scroll" href="#page-top"></a>	</li>
-					<li class="active"><a class="page-scroll" href="#home">Home</a></li>
-					<li><a class="page-scroll scroll" href="#about">About</a></li>
-					<li><a class="page-scroll scroll" href="#services">Services</a></li>
-					<li><a class="page-scroll scroll" href="#team">Team</a></li>
-					<li><a class="page-scroll scroll" href="#gallery">Gallery</a></li>
-					<li><a class="page-scroll scroll" href="#mail">Mail Us</a></li>
-				</ul>
-			</div>
-			<!-- /.navbar-collapse -->
-		</nav>  
-	</div>	
+	@section('header')
+    @include('part.header')
+@show
 	<!-- //header -->
 	<!-- Modal1 -->
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
@@ -404,119 +372,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </div>
 <!-- //team -->
 <!-- gallery -->
-	<div class="banner-bottom" id="gallery">
-		<div class="container">
-			<h3 class="title-w3l">Gallery</h3>
-			<div class="w3ls_gallery_grids">
-				<div class="col-md-4 w3_agile_gallery_grid">
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g1.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g1.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>TakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g2.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g2.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g3.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g3.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 w3_agile_gallery_grid">
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g4.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g4.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g6.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g6.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g5.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g5.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4 w3_agile_gallery_grid">
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g7.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g7.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>SakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g8.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g8.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>TakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="agile_gallery_grid">
-						<a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est." href="images/g9.jpg">
-							<div class="agile_gallery_grid1">
-								<img src="images/g9.jpg" alt=" " class="img-responsive" />
-								<div class="w3layouts_gallery_grid1_pos">
-									<h3>TakePhoto</h3>
-									<p>Donec vitae hendrerit faucibus.</p>
-								</div>
-							</div>
-						</a>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
+	
 <!-- //gallery -->
 <!-- mail -->
 	<div class="agileits_w3layouts_mail_grids" id="mail">	
